@@ -3,6 +3,7 @@
 ## :pencil: Trabalho da faculdade para aprovação na matéria de Sistemas Operacionais - ECOS01
 
 - `Aluno e matrícula`: Marcelo Barbosa Tadini Patta - 2019000439, Fernando Iemini Costa - 2019000573
+- `Slides e vídeo`: Slides disponíveis pelo link abaixo eu pelo arquivo pdf "Fork - Processo Filho.pdf"
 
 
 ## :movie_camera: Vídeo do funcionamento 
